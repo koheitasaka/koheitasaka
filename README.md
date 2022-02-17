@@ -45,7 +45,7 @@ VS Code                  10 hrs 40 mins      ███████████�
 ```
 
 
- Last Updated on 16/02/2022 19:34:49 UTC
+ Last Updated on 17/02/2022 19:34:05 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koheitasaka)
