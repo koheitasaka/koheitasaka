@@ -33,15 +33,15 @@ Sunday       49 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 59 mins      █████████████████████████   100.0%
+TypeScript               7 hrs 33 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  10 hrs 59 mins      █████████████████████████   100.0%
+VS Code                  7 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/04/2022 19:34:35 UTC
+ Last Updated on 24/04/2022 19:34:32 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koheitasaka)
