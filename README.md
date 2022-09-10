@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koheitasaka&count_private=true&show_icons=true&theme=monokai)](https://github.com/koheitasaka/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C072%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%2010%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -35,17 +35,17 @@ Sunday       49 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               21 hrs 18 mins      █████████████████████████   99.92% 
+TypeScript               21 hrs              █████████████████████████   99.91% 
 XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  21 hrs 20 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 1 min        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 09/09/2022 19:36:55 UTC
+ Last Updated on 10/09/2022 19:35:35 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koheitasaka)
