@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koheitasaka&count_private=true&show_icons=true&theme=monokai)](https://github.com/koheitasaka/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%207%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -35,19 +35,19 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               20 hrs 34 mins      ████████████████████████░   98.14% 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
-Vue.js                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+TypeScript               24 hrs 45 mins      ████████████████████████░   98.22% 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91% 
+Vue.js                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49% 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  20 hrs 58 mins      █████████████████████████   100.0%
+VS Code                  25 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 14/10/2022 19:40:46 UTC
+ Last Updated on 15/10/2022 19:38:57 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koheitasaka)
