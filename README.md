@@ -6,8 +6,41 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koheitasaka&count_private=true&show_icons=true&theme=monokai)](https://github.com/koheitasaka/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C161%20hrs%2023%20mins-blue)
 
- Last Updated on 03/01/2026 20:06:47 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                43979 commits       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+🌆 Daytime                86555 commits       █████████░░░░░░░░░░░░░░░░   37.14 % 
+🌃 Evening                72857 commits       ████████░░░░░░░░░░░░░░░░░   31.26 % 
+🌙 Night                  29655 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   34210 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Tuesday                  52473 commits       ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+Wednesday                43630 commits       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Thursday                 42128 commits       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Friday                   35741 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Saturday                 13394 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Sunday                   11470 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 04/01/2026 20:07:37 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koheitasaka)
