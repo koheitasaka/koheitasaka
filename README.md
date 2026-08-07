@@ -6,26 +6,24 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koheitasaka&count_private=true&show_icons=true&theme=monokai)](https://github.com/koheitasaka/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C155%20hrs%2033%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4522 commits        ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-🌆 Daytime                5815 commits        █████████░░░░░░░░░░░░░░░░   37.16 % 
-🌃 Evening                3145 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-🌙 Night                  2165 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+🌞 Morning                4340 commits        ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+🌆 Daytime                5621 commits        █████████░░░░░░░░░░░░░░░░   37.27 % 
+🌃 Evening                3051 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+🌙 Night                  2071 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2092 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Tuesday                  1290 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Wednesday                2013 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Thursday                 2268 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Friday                   5928 commits        █████████░░░░░░░░░░░░░░░░   37.89 % 
-Saturday                 889 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Sunday                   1167 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Monday                   2002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Tuesday                  1242 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Wednesday                1969 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Thursday                 2146 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Friday                   5772 commits        ██████████░░░░░░░░░░░░░░░   38.27 % 
+Saturday                 843 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Sunday                   1109 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 ```
 
 
@@ -46,7 +44,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 05/08/2026 20:48:25 UTC
+ Last Updated on 07/08/2026 00:49:33 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koheitasaka)
